@@ -1,4 +1,4 @@
-# projet-git-avance-JLouis-GRemi
+# projet-git-avance-GRemi
 Tp ynov
 
 ## Changelog 
