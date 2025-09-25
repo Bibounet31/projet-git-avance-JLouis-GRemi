@@ -1,2 +1,2 @@
-# projet-git-avance-JLouis-GRemi
+# projet-git-avance-JLouis
 Tp ynov
