@@ -11,7 +11,7 @@ func main() {
 
 // a function that count from 0 to 10
 func Counttoten() {
-	for i := 0; i < 10; i++ {
+	for i := 0; i < 11; i++ {
 		fmt.Println(i)
 	}
 }
